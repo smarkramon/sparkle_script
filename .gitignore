@@ -1,0 +1,8 @@
+.DS_Store
+MainSelectorComponent.pyc
+SpecialMixerComponent.pyc
+SpecialSessionComponent.pyc
+SpecialTransportComponent.pyc
+StepSequencerComponent.pyc
+TranslationSelectorComponent.pyc
+__init__.pyc
